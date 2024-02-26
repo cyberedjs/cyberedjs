@@ -1,6 +1,8 @@
 ### Hi there 👋, My name is Joonsu Heo
 Studying at Kyunghee University majoring Software Convergence
+
 Interested in quantitative research/analyst field and also data science/analyst field
+
 Research Intern at WorldQuant Brain (3/4 ~ ) 
 
 [Portfolio CV](https://drive.google.com/file/d/1gcPPxwKf9UJI0DnIrggQe9d384UTaM7m/view?usp=drive_link) 
